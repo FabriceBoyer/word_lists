@@ -1,0 +1,357 @@
+[
+  {
+    "\u00ef\u00bb\u00bfWord": "Monday",
+    "Lemmas": "Mondays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Tuesday",
+    "Lemmas": "Tuesdays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Wednesday",
+    "Lemmas": "Wednesdays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Thursday",
+    "Lemmas": "Thursdays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Friday",
+    "Lemmas": "Fridays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Saturday",
+    "Lemmas": "Saturdays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "Sunday",
+    "Lemmas": "Sundays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "January",
+    "Lemmas": "Januarys",
+    "null": [
+      "Januaries"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "February",
+    "Lemmas": "Februarys",
+    "null": [
+      "Februaries"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "March",
+    "Lemmas": "Marchs",
+    "null": [
+      "marched",
+      "marching",
+      "marchings"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "April",
+    "Lemmas": "Aprils"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "May",
+    "Lemmas": "Mays"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "June",
+    "Lemmas": "Junes"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "July",
+    "Lemmas": "Julys"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "August",
+    "Lemmas": "Augusts"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "September",
+    "Lemmas": "Septembers"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "October",
+    "Lemmas": "Octobers"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "November",
+    "Lemmas": "Novembers"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "December",
+    "Lemmas": "Decembers"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "two",
+    "Lemmas": "twos"
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "three",
+    "Lemmas": "threes",
+    "null": [
+      "third",
+      "thirds"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "four",
+    "Lemmas": "fours",
+    "null": [
+      "fourth",
+      "fourths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "five",
+    "Lemmas": "fives",
+    "null": [
+      "fifth",
+      "fifths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "six",
+    "Lemmas": "sixs",
+    "null": [
+      "sixth",
+      "sixths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "seven",
+    "Lemmas": "sevens",
+    "null": [
+      "seventh",
+      "sevenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "eight",
+    "Lemmas": "eights",
+    "null": [
+      "eighth",
+      "eighths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "nine",
+    "Lemmas": "nines",
+    "null": [
+      "ninth",
+      "ninths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "ten",
+    "Lemmas": "tens",
+    "null": [
+      "tenth",
+      "tenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "eleven",
+    "Lemmas": "elevens",
+    "null": [
+      "eleventh",
+      "elevenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "twelve",
+    "Lemmas": "twelves",
+    "null": [
+      "twelfth",
+      "twelfths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "thirteen",
+    "Lemmas": "thirteens",
+    "null": [
+      "thirteenth",
+      "thirteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "fourteen",
+    "Lemmas": "fourteens",
+    "null": [
+      "fourteenth",
+      "fourteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "fifteen",
+    "Lemmas": "fifteens",
+    "null": [
+      "fifteenth",
+      "fifteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "sixteen",
+    "Lemmas": "sixteens",
+    "null": [
+      "sixteenth",
+      "sixteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "seventeen",
+    "Lemmas": "seventeens",
+    "null": [
+      "seventeenth",
+      "seventeenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "eighteen",
+    "Lemmas": "eighteens",
+    "null": [
+      "eighteenth",
+      "eighteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "nineteen",
+    "Lemmas": "nineteens",
+    "null": [
+      "nineteenth",
+      "nineteenths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "twenty",
+    "Lemmas": "twentys",
+    "null": [
+      "twenties",
+      "twentieth",
+      "twentieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "thirty",
+    "Lemmas": "thirtys",
+    "null": [
+      "thirties",
+      "thirtieth",
+      "thirtieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "forty",
+    "Lemmas": "fortys",
+    "null": [
+      "forties",
+      "fortieth",
+      "fortieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "fifty",
+    "Lemmas": "fiftys",
+    "null": [
+      "fifties",
+      "fiftieth",
+      "fiftieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "sixty",
+    "Lemmas": "sixtys",
+    "null": [
+      "sixties",
+      "sixtieth",
+      "sixtieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "seventy",
+    "Lemmas": "seventys",
+    "null": [
+      "seventies",
+      "seventieth",
+      "seventieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "eighty",
+    "Lemmas": "eightys",
+    "null": [
+      "eighties",
+      "eightieth",
+      "eightieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "ninety",
+    "Lemmas": "ninetys",
+    "null": [
+      "nineties",
+      "ninetieth",
+      "ninetieths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "hundred",
+    "Lemmas": "hundreds",
+    "null": [
+      "hundredth",
+      "hundredths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "thousand",
+    "Lemmas": "thousands",
+    "null": [
+      "thousandth",
+      "thousandths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "million",
+    "Lemmas": "millions",
+    "null": [
+      "millionth",
+      "millionths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "billion",
+    "Lemmas": "billions",
+    "null": [
+      "billionth",
+      "billionths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "trillion",
+    "Lemmas": "trillions",
+    "null": [
+      "trillionth",
+      "trillionths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "quadrillion",
+    "Lemmas": "quadrillions",
+    "null": [
+      "quadrillionth",
+      "quadrillionths"
+    ]
+  },
+  {
+    "\u00ef\u00bb\u00bfWord": "quintillion",
+    "Lemmas": "quintillions",
+    "null": [
+      "quintillionth",
+      "quintillionths"
+    ]
+  }
+]
